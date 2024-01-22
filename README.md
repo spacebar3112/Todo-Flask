@@ -1,1 +1,1 @@
-small flask project with sqlite for a to-do list.
+Todo list webapp with Flask and SQLite
